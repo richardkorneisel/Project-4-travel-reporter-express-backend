@@ -37,10 +37,14 @@ This web application was designed to
 - App
     - Header
         - Nav
-    - Home 
-    - Create
-    - View_Trip_Report
-### User Stories and Wireframe
+    - Homepage 
+    - Create_trip
+    - Trip_Detail
+    - Trip_Gallery
+        -Gallery_Card
+    - Instructions
+        
+    ## User Stories and Wireframe
 -
 ### Future Improvements
 - 
