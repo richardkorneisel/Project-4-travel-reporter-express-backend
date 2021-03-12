@@ -21,11 +21,13 @@ This web application was designed to
 - React Bootstrap
 
 ### Planning - Wire Frames
-[Wire Frames 1](Planning/Homepage.jpg)
+[Planning folder](Planning)
 
-[Wire Frames 2](Planning/Create_trip_report.jpg)
+[Homepage 1](Planning/Homepage.jpg)
 
-[Wire Frames 3](Planning/Trip_report.jpg)
+[Create Report 2](Planning/Create_trip_report.jpg)
+
+[View Reports 3](Planning/Trip_report.jpg)
 
 
 ### Deployed App
