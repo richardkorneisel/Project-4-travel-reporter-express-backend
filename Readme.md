@@ -21,7 +21,11 @@ This web application was designed to
 - React Bootstrap
 
 ### Planning - Wire Frames
-[Wire Frames](/Users/tt92729/SEI/projects/Project-4-travel-reporter-express-backend/Planning)
+[Wire Frames 1](/Users/tt92729/SEI/projects/Project-4-travel-reporter-express-backend/Planning/Homepage.jpg)
+
+[Wire Frames 2](/Users/tt92729/SEI/projects/Project-4-travel-reporter-express-backend/Planning/Create_trip_report.jpg)
+
+[Wire Frames 3](/Users/tt92729/SEI/projects/Project-4-travel-reporter-express-backend/Planning/Trip_report.jpg)
 
 
 ### Deployed App
